@@ -1,0 +1,5 @@
+name: VariousTNTs
+version: "${version}"
+main: voidcaffelatte.varioustnts.VariousTNTs
+api-version: 1.13
+authors: ["${author}"]
